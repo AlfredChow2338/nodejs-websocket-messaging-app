@@ -19,3 +19,5 @@ Run serve side server (by default port 3000)
 ```
 npm run devStart
 ```
+
+Go to localhost:5000 and you will see the client side of the messaging app is running.
